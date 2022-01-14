@@ -1,1 +1,3 @@
-zero
+<?php
+echo "zero";
+?>
